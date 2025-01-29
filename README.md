@@ -20,3 +20,6 @@ The Coca-Cola banner UI design features the following elements:
 ## Figma(Design) Link
 
 Check out the Figma design [here](https://www.figma.com/design/XpRiWnjlYpwpHHU81k6aXH/coca-cola-banner?node-id=0-1&p=f&t=eL7yT3YaUetva3K4-0).
+## Images of Ui desgin
+
+<img width="748" alt="Screenshot 2025-01-29 at 5 29 35 PM" src="https://github.com/user-attachments/assets/969e8b8f-260e-463a-9881-80a0c48fdeb1" />
